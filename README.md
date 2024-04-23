@@ -24,5 +24,4 @@ Support documents / ressources:
 
 URL https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
 
-data_description.txt
-train_processed.csv
+
