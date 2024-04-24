@@ -6,7 +6,7 @@ submitted by :
 - Jeffrey Che
 - Nadine blaik
 
-The topic that was chosen for the project was housing prices. Over the last few years we were able to observed a surge in the housing market and since the spikes in prices were undeniable we decided to analyze it.
+The topic that was chosen for the project was housing prices. Over the last few years we were able to observe a surge in the housing market and since the spikes in prices were undeniable we decided to analyze it.
 
 The repository contains the following :
 - house_price_linear_regression_colab.ipynb
