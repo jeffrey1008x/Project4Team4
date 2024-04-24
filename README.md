@@ -13,20 +13,19 @@ The repository contains the following :
 Linear regression:
 - house_price_linear_regression_colab.ipynb
   
-  Neuro network:
+Neuro network:
 - Project_4 Neuro netowork Attempt1.ipynb
 - Project_4 Neuro netowork Attempt2.ipynb
 - .gitignore
   
-  Powerpoint:
+Powerpoint:
 - Housing Prices Final ppt
   
-  Graphs :
-  
+Graphs :
 - matplotlib graphs.ipynb
 - matplotlib updated.ipynb
-  
-  CSV files:
+
+CSV files:
 - train_processed.xlsx
 - train_processed_cleaned.xlsx
 
