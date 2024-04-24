@@ -9,13 +9,18 @@ submitted by :
 The topic that was chosen for the project was housing prices. Over the last few years we were able to observe a surge in the housing market. This is why we decided to analyze it and try to predict it.
 
 The repository contains the following :
+Linear regression:
 - house_price_linear_regression_colab.ipynb
+  Neuro network:
 - Project_4 Neuro netowork Attempt1.ipynb
 - Project_4 Neuro netowork Attempt2.ipynb
 - .gitignore
+  Powerpoint:
 - Housing Prices Final ppt
+  Graphs :
 - matplotlib graphs.ipynb
 - matplotlib updated.ipynb
+  CSV files:
 - train_processed.xlsx
 - train_processed_cleaned.xlsx
 
