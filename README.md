@@ -29,7 +29,7 @@ CSV files:
 - train_processed.xlsx
 - train_processed_cleaned.xlsx
 
-Note: Running notebook (.ipynb) files on Google Colab is strongly suggested to avoid any dependence issue.   
+Note: Running notebook (.ipynb) files on Google Colab is strongly recommended  to avoid any dependence issue.   
 Please also upload train_processed.xlsx to Colab if you do.
 
 Support documents / ressources:
